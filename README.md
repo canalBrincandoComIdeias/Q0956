@@ -2,7 +2,7 @@
 
 **Sensor de Fogo com ESP32** 
 
-Projeto do Vídeo Q0961 Série **_Matatona Maker_** powered by **_Petrobras_**
+Projeto do Vídeo Q0956 Série **_Matatona Maker_** powered by **_Petrobras_**
 
 :video_camera: Assista o vídeo [CLIQUE AQUI](https://youtu.be/w6iTI8lE37c)
 
